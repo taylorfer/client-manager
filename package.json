@@ -1,0 +1,13 @@
+{
+  "name": "client-manager",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de clientes em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs", "javascript", "backend"],
+  "author": "Taylor Alves Fernandes",
+  "license": "ISC",
+  "type": "commonjs"
+}
